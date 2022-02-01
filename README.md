@@ -1,56 +1,42 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse Project
 
-> Description the project.
+> This is my capstone project website showcasing my skills and mastery of HTML, CSS, JAVASCRIPT and responsive design.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
-## Live Demo (if available)
+## Live Demo 🔗
 
-[Live Demo Link](https://livedemo.com)
+Coming Soon...
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+**This is a simple project to provide my reviewer an opportunity to test their code reviewing skills**
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+There are no prerequisites
 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+Just clone the repository to your local machine and you are all set.
+`git clone https://github.com/codepantherr/hello-microverse--cr.git`
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Code-panther](https://github.com/Code-panther)
+- Twitter: [@codepantherr](https://twitter.com/codepantherr)
+- LinkedIn: [promise-eze](https://linkedin.com/in/promise-eze)
 
 ## 🤝 Contributing
 
@@ -64,9 +50,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to [Cindy Shin](https://www.behance.net/adagio07) whose design this project is modeled after.
 
 ## 📝 License
 
